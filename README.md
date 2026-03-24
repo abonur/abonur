@@ -8,7 +8,7 @@ Co-founded **4 startups** across healthcare, construction, email infrastructure,
 
 - **AI/ML** — Learning-to-Rank, recommendation systems, NLP, optimization
 - **Performance & Cybersecurity** — real-time scoring systems, DDoS defense, network security
-- **Engineering** — Python, TypeScript/React, C++, PostgreSQL, Docker
+- **Engineering** — Full-stack systems from prototype to production, real-time data pipelines, cloud infrastructure
 - **Research** — 5 publications in topological methods, game theory, kernel methods, and computational physics
 
 #### Projects I've built or led
