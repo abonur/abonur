@@ -2,7 +2,7 @@
 
 PhD in Computer Science from Ecole Polytechnique. I build AI systems and ship technical products from research to production.
 
-Co-founded **4 startups** across healthcare, construction, email infrastructure, and AI — currently leading tech at [Tracktor](https://tracktor.fr) and building [Ruwad](https://ruwad.io).
+Co-founded **4 startups** across healthcare, construction, email infrastructure, and AI — currently leading tech at [Tracktor](https://tracktor.fr) and building [Ruwad](https://ruwad.io) and [HappyMail](https://happymail.tech).
 
 #### What I work on
 
